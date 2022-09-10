@@ -1,0 +1,15 @@
+C:\Users\DNS\Desktop\git_study\DZ_seminar3 zadasha19\obj\Debug\net6.0\DZ_seminar3 zadasha19.csproj.AssemblyReference.cache
+C:\Users\DNS\Desktop\git_study\DZ_seminar3 zadasha19\obj\Debug\net6.0\DZ_seminar3 zadasha19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNS\Desktop\git_study\DZ_seminar3 zadasha19\obj\Debug\net6.0\DZ_seminar3 zadasha19.AssemblyInfoInputs.cache
+C:\Users\DNS\Desktop\git_study\DZ_seminar3 zadasha19\obj\Debug\net6.0\DZ_seminar3 zadasha19.AssemblyInfo.cs
+C:\Users\DNS\Desktop\git_study\DZ_seminar3 zadasha19\obj\Debug\net6.0\DZ_seminar3 zadasha19.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\git_study\DZ_seminar3 zadasha19\bin\Debug\net6.0\DZ_seminar3 zadasha19.exe
+C:\Users\DNS\Desktop\git_study\DZ_seminar3 zadasha19\bin\Debug\net6.0\DZ_seminar3 zadasha19.deps.json
+C:\Users\DNS\Desktop\git_study\DZ_seminar3 zadasha19\bin\Debug\net6.0\DZ_seminar3 zadasha19.runtimeconfig.json
+C:\Users\DNS\Desktop\git_study\DZ_seminar3 zadasha19\bin\Debug\net6.0\DZ_seminar3 zadasha19.dll
+C:\Users\DNS\Desktop\git_study\DZ_seminar3 zadasha19\bin\Debug\net6.0\DZ_seminar3 zadasha19.pdb
+C:\Users\DNS\Desktop\git_study\DZ_seminar3 zadasha19\obj\Debug\net6.0\DZ_seminar3 zadasha19.dll
+C:\Users\DNS\Desktop\git_study\DZ_seminar3 zadasha19\obj\Debug\net6.0\refint\DZ_seminar3 zadasha19.dll
+C:\Users\DNS\Desktop\git_study\DZ_seminar3 zadasha19\obj\Debug\net6.0\DZ_seminar3 zadasha19.pdb
+C:\Users\DNS\Desktop\git_study\DZ_seminar3 zadasha19\obj\Debug\net6.0\DZ_seminar3 zadasha19.genruntimeconfig.cache
+C:\Users\DNS\Desktop\git_study\DZ_seminar3 zadasha19\obj\Debug\net6.0\ref\DZ_seminar3 zadasha19.dll

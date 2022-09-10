@@ -1,8 +1,8 @@
 ﻿Console.WriteLine("Введи 2 числа и там посмотрим");
             Console.Write("Введи   число 1 - ");
-            int a = Convert.ToInt32(Console.Read());
+            int a = Convert.ToInt32(Console.ReadLine());
             Console.Write("Введи   число 2 - ");
-            int b = Convert.ToInt32(Console.Read());
+            int b = Convert.ToInt32(Console.ReadLine());
             if ( a > b)
             {
                 Console.WriteLine($"Число {a} больше чем {b}");

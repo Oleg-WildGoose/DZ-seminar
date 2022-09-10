@@ -1,0 +1,15 @@
+C:\Users\DNS\Desktop\git_study\DZadaha15\bin\Debug\net6.0\DZadaha15.exe
+C:\Users\DNS\Desktop\git_study\DZadaha15\bin\Debug\net6.0\DZadaha15.deps.json
+C:\Users\DNS\Desktop\git_study\DZadaha15\bin\Debug\net6.0\DZadaha15.runtimeconfig.json
+C:\Users\DNS\Desktop\git_study\DZadaha15\bin\Debug\net6.0\DZadaha15.dll
+C:\Users\DNS\Desktop\git_study\DZadaha15\bin\Debug\net6.0\DZadaha15.pdb
+C:\Users\DNS\Desktop\git_study\DZadaha15\obj\Debug\net6.0\DZadaha15.csproj.AssemblyReference.cache
+C:\Users\DNS\Desktop\git_study\DZadaha15\obj\Debug\net6.0\DZadaha15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNS\Desktop\git_study\DZadaha15\obj\Debug\net6.0\DZadaha15.AssemblyInfoInputs.cache
+C:\Users\DNS\Desktop\git_study\DZadaha15\obj\Debug\net6.0\DZadaha15.AssemblyInfo.cs
+C:\Users\DNS\Desktop\git_study\DZadaha15\obj\Debug\net6.0\DZadaha15.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\git_study\DZadaha15\obj\Debug\net6.0\DZadaha15.dll
+C:\Users\DNS\Desktop\git_study\DZadaha15\obj\Debug\net6.0\refint\DZadaha15.dll
+C:\Users\DNS\Desktop\git_study\DZadaha15\obj\Debug\net6.0\DZadaha15.pdb
+C:\Users\DNS\Desktop\git_study\DZadaha15\obj\Debug\net6.0\DZadaha15.genruntimeconfig.cache
+C:\Users\DNS\Desktop\git_study\DZadaha15\obj\Debug\net6.0\ref\DZadaha15.dll

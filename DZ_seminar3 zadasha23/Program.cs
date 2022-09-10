@@ -17,6 +17,6 @@ void PrintArry(int[] coll){
   }
 } 
 
-int[] arry = new int[a+1];
-Cube(arry);
-PrintArry(arry);
+int[] kvd = new int[a+1];
+Cube(kvd);
+PrintArry(kvd);

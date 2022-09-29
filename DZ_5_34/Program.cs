@@ -2,28 +2,28 @@
 int size = Convert.ToInt32(Console.ReadLine());
 int[] numbers = new int[size];
 FillArrayRandomNumbers(numbers);
-Console.WriteLine("Вот наш массив: ");
+Console.WriteLine("Сгенерированный массив: ");
 PrintArray(numbers);
 int count = 0;
-for (int z = 0; z < numbers.Length; z++)
-if (numbers[z] % 2 == 0)
+for (int i = 0; i < numbers.Length; i++)
+if (numbers[i] % 2 == 0)
 count++;
 
 Console.WriteLine($"всего {numbers.Length} чисел, {count} из них чётные");
 
 void FillArrayRandomNumbers(int[] numbers)
 {
-    for(int i = 0; i < numbers.Length; i++)
+    for(int e = 0; e < numbers.Length; e++)
     {
-        numbers[i] = new Random().Next(100,1000);
+        numbers[e] = new Random().Next(100,1000);
     }
 }
 void PrintArray(int[] numbers)
 {
     Console.Write("[ ");
-    for(int i = 0; i < numbers.Length; i++)
+    for(int e = 0; e < numbers.Length; e++)
     {
-        Console.Write(numbers[i] + " ");
+        Console.Write(numbers[e] + " ");
     }
     Console.Write("]");
     Console.WriteLine();

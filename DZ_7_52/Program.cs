@@ -18,7 +18,6 @@ for (int j = 0; j < numbers.GetLength(1); j++)
     Console.Write(rage + "  ");
 }
 Console.WriteLine();
-
 void FillArrayRandomNumbers(int[,] array)
 {
     for (int i = 0; i < array.GetLength(0); i++)

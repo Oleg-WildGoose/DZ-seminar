@@ -1,0 +1,15 @@
+C:\Users\DNS\Desktop\git_study\DZ_7_52\bin\Debug\net6.0\DZ_7_52.exe
+C:\Users\DNS\Desktop\git_study\DZ_7_52\bin\Debug\net6.0\DZ_7_52.deps.json
+C:\Users\DNS\Desktop\git_study\DZ_7_52\bin\Debug\net6.0\DZ_7_52.runtimeconfig.json
+C:\Users\DNS\Desktop\git_study\DZ_7_52\bin\Debug\net6.0\DZ_7_52.dll
+C:\Users\DNS\Desktop\git_study\DZ_7_52\bin\Debug\net6.0\DZ_7_52.pdb
+C:\Users\DNS\Desktop\git_study\DZ_7_52\obj\Debug\net6.0\DZ_7_52.csproj.AssemblyReference.cache
+C:\Users\DNS\Desktop\git_study\DZ_7_52\obj\Debug\net6.0\DZ_7_52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNS\Desktop\git_study\DZ_7_52\obj\Debug\net6.0\DZ_7_52.AssemblyInfoInputs.cache
+C:\Users\DNS\Desktop\git_study\DZ_7_52\obj\Debug\net6.0\DZ_7_52.AssemblyInfo.cs
+C:\Users\DNS\Desktop\git_study\DZ_7_52\obj\Debug\net6.0\DZ_7_52.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\git_study\DZ_7_52\obj\Debug\net6.0\DZ_7_52.dll
+C:\Users\DNS\Desktop\git_study\DZ_7_52\obj\Debug\net6.0\refint\DZ_7_52.dll
+C:\Users\DNS\Desktop\git_study\DZ_7_52\obj\Debug\net6.0\DZ_7_52.pdb
+C:\Users\DNS\Desktop\git_study\DZ_7_52\obj\Debug\net6.0\DZ_7_52.genruntimeconfig.cache
+C:\Users\DNS\Desktop\git_study\DZ_7_52\obj\Debug\net6.0\ref\DZ_7_52.dll

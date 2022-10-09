@@ -1,0 +1,15 @@
+C:\Users\DNS\Desktop\git_study\Ipr_68\obj\Debug\net6.0\Ipr_68.csproj.AssemblyReference.cache
+C:\Users\DNS\Desktop\git_study\Ipr_68\obj\Debug\net6.0\Ipr_68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNS\Desktop\git_study\Ipr_68\obj\Debug\net6.0\Ipr_68.AssemblyInfoInputs.cache
+C:\Users\DNS\Desktop\git_study\Ipr_68\obj\Debug\net6.0\Ipr_68.AssemblyInfo.cs
+C:\Users\DNS\Desktop\git_study\Ipr_68\obj\Debug\net6.0\Ipr_68.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\git_study\Ipr_68\bin\Debug\net6.0\Ipr_68.exe
+C:\Users\DNS\Desktop\git_study\Ipr_68\bin\Debug\net6.0\Ipr_68.deps.json
+C:\Users\DNS\Desktop\git_study\Ipr_68\bin\Debug\net6.0\Ipr_68.runtimeconfig.json
+C:\Users\DNS\Desktop\git_study\Ipr_68\bin\Debug\net6.0\Ipr_68.dll
+C:\Users\DNS\Desktop\git_study\Ipr_68\bin\Debug\net6.0\Ipr_68.pdb
+C:\Users\DNS\Desktop\git_study\Ipr_68\obj\Debug\net6.0\Ipr_68.dll
+C:\Users\DNS\Desktop\git_study\Ipr_68\obj\Debug\net6.0\refint\Ipr_68.dll
+C:\Users\DNS\Desktop\git_study\Ipr_68\obj\Debug\net6.0\Ipr_68.pdb
+C:\Users\DNS\Desktop\git_study\Ipr_68\obj\Debug\net6.0\Ipr_68.genruntimeconfig.cache
+C:\Users\DNS\Desktop\git_study\Ipr_68\obj\Debug\net6.0\ref\Ipr_68.dll
